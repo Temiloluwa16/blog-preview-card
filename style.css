@@ -3,7 +3,9 @@
 body{
     text-align: center;
     background-color: #F6D050;
-
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     font-family: "Figtree", sans-serif;
     align-items: center;
     justify-content: center;
